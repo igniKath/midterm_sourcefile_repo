@@ -11,3 +11,6 @@ This repository contains my Python source codes and activities from the midterm 
 ## Purpose
 
 This repository is for my Week 11 GitHub Basics assignment.
+## Lesson 3 Update
+
+Updated my README as part of the Git branching and merging activity.
