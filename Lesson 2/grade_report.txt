@@ -1,0 +1,22 @@
+STUDENT GRADE REPORT
+======================
+
+Student ID  Name                Grade  Classification Status  
+----------------------------------------------------------------------
+2026-001    Ana Cruz            88.0   Very Good      Passed  
+2026-002    Ben Santos          74.0   Needs ImprovementFailed  
+2026-003    Carla Reyes         95.0   Excellent      Passed  
+2026-004    Daniel Garcia       81.0   Good           Passed  
+2026-005    Ella Mendoza        79.0   Satisfactory   Passed  
+2026-006    Felix Ramos         92.0   Excellent      Passed  
+2026-007    Grace Lim           68.0   Needs ImprovementFailed  
+2026-008    Henry Tan           78.0   Satisfactory   Passed  
+
+CLASS STATISTICS
+---------------
+Total Students: 8
+Average Grade: 81.88
+Highest Grade: 95.00 (Carla Reyes)
+Lowest Grade: 68.00 (Grace Lim)
+Passed: 6
+Failed: 2
