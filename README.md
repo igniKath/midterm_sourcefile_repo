@@ -24,3 +24,5 @@ This repository contains my Python source codes and activities from the midterm 
 
 This repository is for my Week 11 GitHub Basics assignment.
 
+Lesson 1 source code has been added to this repository.
+
